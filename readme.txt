@@ -5,3 +5,4 @@ git tracks changes of files.
 create a new branch is quick and sample.
 and merge.
 add dev feature1.
+add feature 2.
